@@ -1,0 +1,14 @@
+setTimeout
+setInterval
+Function
+iframe src
+setImmediate
+crypto.generateCRMFRequest
+.text
+.textContent
+.innerText
+eval
+src=
+src =
+href=
+href =

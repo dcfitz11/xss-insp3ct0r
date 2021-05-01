@@ -1,0 +1,24 @@
+location=
+location =
+location(
+=location
+= location
+location.href=
+location.href =
+=location.href
+= location.href
+document.write(
+location.search=
+location.search =
+=location.search
+= location.search
+location.protocol=
+location.protocol =
+=location.protocol
+= location.protocol
+location.hostname=
+location.hostname =
+=location.hostname
+= location.hostname
+window.location.href =
+window.location.href=

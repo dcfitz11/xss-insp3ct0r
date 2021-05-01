@@ -1,0 +1,8 @@
+document.write(
+document.writeIn(
+.innerHTML =
+.innerHTML=
+.outerHTML =
+.outerHTML=
+.createContextualFragment(
+.parseFromString(
